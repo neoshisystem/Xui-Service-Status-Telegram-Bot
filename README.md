@@ -34,8 +34,4 @@
  - manage panel ( multi panel )
  - send / forward message
 
----
-
-## To receive notifications, subscribe to the following Telegram channel (also to support us):
-
- - [Click To Join](https://t.me/rezajafarian_git_channel)
+ 
